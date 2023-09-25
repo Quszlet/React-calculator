@@ -1,0 +1,17 @@
+.output-conteiner {
+    display: flex;
+    justify-content: space-between; /* Это выровняет элементы по краям */
+    align-items: center; /* Это выровняет элементы по вертикали по центру */
+    background-color: rgb(235, 46, 8);
+    height: 200px;
+}
+
+.right-aligned-element {
+    margin-left: auto; /* Это выровняет элемент по правому краю */
+}
+
+strong {
+    color: rgb(209, 208, 208);
+    padding-right: 10px;
+    font-size: 50px;
+}
